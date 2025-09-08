@@ -1,1 +1,5 @@
-
+Resources we discussed in this session:
+1. SeQUeNCe : https://github.com/sequence-toolbox/SeQUeNCe
+2. Qiskit: https://www.ibm.com/quantum/qiskit
+3. Linear Algebra Practical Application : https://youtube.com/playlist?list=PLE7DDD91010BC51F8&feature=shared
+4. Linear Algebra Theoretical : https://youtube.com/playlist?list=PLX2fVLMrzfnfbR1Y8C-F1oYEs1_RubRux&feature=shared
